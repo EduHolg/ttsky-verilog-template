@@ -16,8 +16,8 @@ project:
 
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
+  ui[0]: "clk (manual)"
+  ui[1]: "reset"
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
